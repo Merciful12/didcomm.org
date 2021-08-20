@@ -89,7 +89,7 @@ described here and checked in with the RFC.
 ## Implementations
 
 [Untitled Diagram.pdf](https://github.com/annaShatkovskaya/didcomm.org/files/7021774/Untitled.Diagram.pdf)
-
+![Untitled Diagram](https://user-images.githubusercontent.com/89047134/130240870-a15e48e1-3b58-4785-bfdd-3070a8725891.png)
 ## Endnotes
 
 #### 1
