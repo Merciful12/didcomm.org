@@ -3,8 +3,8 @@ title: test-validation
 publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/test-validation/0.1
-status: зкззуд
-summary: 
+status: Production
+summary: Summary
 tags:
   - star-wars
   - star-wars
