@@ -4,7 +4,7 @@ publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/test validation/0.1
 status: Production
-summary: > See [this note](https://github.com/hyperledger/aries-rfcs/tree/master/concepts/0003-protocols/roles-participants-etc.md) for definitions of the terms "role", "participant", and "party".
+summary: See [this note](https://github.com/hyperledger/aries-rfcs/tree/master/concepts/0003-protocols/roles-participants-etc.md) for definitions of the terms "role", "participant", and "party".
 
 tags:
   - faster-than-light-travel
