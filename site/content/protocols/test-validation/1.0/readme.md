@@ -1,7 +1,7 @@
 ---
 title: test validation
 publisher:annaShatkovskaya
-license: AAA 
+license: MITLOOOOOOOOOOOOOOOOOOOOOONG
 piuri: https://didcomm.org/test-validation/1.0
 status: ![screen](https://user-images.githubusercontent.com/89047134/133684311-cb695c67-accb-48b2-8af9-7b4b4a7549c7.jpg)
 summary: In one or two sentences, explain what problem this protocol solve, how it works, and other key characteristics.
