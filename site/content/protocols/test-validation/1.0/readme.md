@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/test-validation/1.0
