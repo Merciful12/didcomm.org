@@ -10,7 +10,7 @@ tags:
   - faster-than-light-travel
   - star-wars
 authors:
-  - ![image]
+  - !!!s
 ---
 
 ## Roles
