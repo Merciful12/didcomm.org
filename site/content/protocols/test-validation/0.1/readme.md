@@ -3,10 +3,10 @@ title: test-validation
 publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/test-validation/0.1
-status: 
-summary: In one or two sentences, explain what problem this protocol solve, how it works, and other key characteristics.
+status: зкззуд
+summary: 
 tags:
-  - faster-than-light-travel
+  - star-wars
   - star-wars
 authors:
   - name: Your name
