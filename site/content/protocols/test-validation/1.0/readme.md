@@ -1,8 +1,7 @@
 ---
 title: test validation
-publisher:
-license: MIT
-piuri: https://didcomm.org/test-validation/1.0
+publisher:annaShatkovskaya
+license: piuri: https://didcomm.org/test-validation/1.0
 status: Production
 summary: In one or two sentences, explain what problem this protocol solve, how it works, and other key characteristics.
 tags:
