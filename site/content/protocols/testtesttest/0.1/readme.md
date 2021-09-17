@@ -2,7 +2,7 @@
 title: test test test
 publisher: annaShatkovskaya
 license: MIT
-piuri: https://didcomm.org/testtesttest/0.9
+piuri: https://didcomm.org/testtesttest/0.1
 status: Production
 summary: In one or two sentences, explain what problem this protocol solve, how it works, and other key characteristics.
 tags:
