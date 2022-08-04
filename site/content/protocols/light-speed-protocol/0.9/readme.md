@@ -38,7 +38,7 @@ By convention, state names use lower-kebab-case. They are compared case-sensitiv
 
 State management in protocols is a deep topic. For more information, please see [State Details and State Machines](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0003-protocols/state-details.md).
 
-## Basic Walkthrough
+## Basic Walkthroughxexe
 
 Explain what happens from beginning to end. in a simple instance of the protocol. The goal is not to describe all the possibilities, but to show a typical ("happy-path") case so people get the main idea. Provide examples of the messages and explain their fundamental meaning and usage. All possible fields may not appear; an exhaustive catalog is saved for [Message Reference](#message-reference).
 
