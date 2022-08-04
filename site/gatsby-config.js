@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `DIDComm`,
     description: `DIDComm lets people and software use DIDs to communicate securely and privately over many channels: the web, email, mobile push notifications, QR codes, Bluetooth, message queues, sneakernet, and more.`,
-    author: `DIDComm`,
+    author: `DIDCommk`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
