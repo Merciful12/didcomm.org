@@ -1,5 +1,5 @@
 ---
-title: My Test Protocol
+title: My Test Protocolk
 publisher: annaShatkovskaya
 license: MIT
 piuri: https://didcomm.org/my-test-protocol/0.1
