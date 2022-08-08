@@ -10,7 +10,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - uses: actions/checkout@v1
-        - name: update all prs
-          uses: Merciful12/pr-updater-action@1dac9a63f14f18737afcf0e85f03ec8337b23b3d
+        - name: Automatically update PR
+          uses: adRise/update-pr-branch@v0.6.0
           with:
-            token: ${{ secrets.USD }}
+              token: ${{ secrets.USD }}
+              base: 'main'
+              required_approval_count: 0
+              require_passed_checks: false
