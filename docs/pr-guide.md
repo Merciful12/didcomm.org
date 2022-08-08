@@ -1,7 +1,7 @@
 # Protocol Publishing Guide
 
 ## Publish a new protocol definition
-1. Fork the repo.
+1. Fork the repo..
 2. Choose protocol name and version. Example: `my-cool-protocol`, `0.1`.
 3. Create a folder `site/content/protocols/<protocol-name>/<protocol-version>`.
 4. Create a protocol definition document in that folder as a markdown file named`readme.md`. Use the following example as a [reference](./protocol-example.md).
